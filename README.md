@@ -1,4 +1,4 @@
-# TripleTen Sprint X Project – EDA & Forecasting
+# TripleTen Sprint 5 Project – EDA & Forecasting
 
 This project was part of the TripleTen Data Science program. It combined exploratory data analysis with forecasting and business recommendations — one of the most comprehensive analytical projects I’ve completed so far.
 
